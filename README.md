@@ -27,7 +27,7 @@ python test_pretrain.py
 
 ### 2. Run on your datasets
 
-In this section, you must provide .sdf file of the drug as well as .pdb file of the target. Note: due to the file "distance_matrix" is too large for us to upload to the github warehouse. You can use the provided code to generate "distance_ Matrix" file, or go to the following link to download: https://pan.baidu.com/s/1Iavan55CSZNpJNPJKplg0w    提取码：q6od
+In this section, you must provide .sdf file of the drug as well as .pdb file of the target. Note: due to the file "distance_matrix" is too large for us to upload to the github warehouse. You can use the provided code to generate "distance_ Matrix" file, or go to the following link to download: https://pan.baidu.com/s/1UJz1mSW5dZmPNAxWPd8yxA    Extracted Code：u6u5
 
  ```bash
 # You can get the drug map representation and the target distance matrix by running the following command.
